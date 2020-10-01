@@ -1,16 +1,21 @@
 Project Title
+
   This is my portfolio website.
+  
+ 
+Language used :- Html 5, css, JavaScript. 
+  
   
   
 Getting Started
 
 
-## Shubhendu Shubham
+## Portfolio Display Name 
 
 ### This is cool, I want one too!
 Glad you like it, follow these instructions to make your own DEV card.
 
-1. Go to this [repo](https://github.com/sivolko/sivolko.github.io).
+1. Go to this [repo](git@github.com:VirtualLords/Portfolio.git).
 1. Star the repo. (Yeah this step is important, don't ask why).
 1. Clone the repo to your machine.
 1. Change the details in html ,css and pic folder
@@ -36,8 +41,7 @@ SOFTWARE YOU NEED TO INSTALL:  ANY TEXT EDITOR (SUBLIME/ VISUAL STUDIO OR NOTEPA
 Acknowledgments
 
 
-
-I reallly thanks to Google, PHPpoint , Tutorialpoint and Youtube courses (https://www.youtube.com/channel/UCF7BExjT2zH_mmyqOB139Dg) to help me in compeltion of my work.
+This portfolio is made just for Knowledge purpose and It's usages. 
 
 
 
